@@ -1,0 +1,7 @@
+.count_wrap{
+    display: flex;
+    width: 200px;
+    align-items: center;
+    margin:10px;
+    justify-content: space-evenly;
+}
